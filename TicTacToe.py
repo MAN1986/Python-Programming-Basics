@@ -63,7 +63,7 @@ while(True):
             blanks-=1
         displayGrid()
     if(isWinner()):
-        print('Player 1 Wins!')
+        print('Player 2 Wins!')
         break
     if(blanks==0):
         break
