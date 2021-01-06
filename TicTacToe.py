@@ -52,7 +52,7 @@ while(True):
         break
     if(blanks==0):
         break
-        f=False
+    f=False
     while(not f):
         print('Player 2 Turn')
         p2=int(input('Enter a slot to fill:'))
